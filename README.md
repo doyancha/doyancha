@@ -14,29 +14,6 @@ I’m a Python-focused developer who enjoys exploring data, building meaningful 
 - ⚡ Always pushing boundaries with new ideas, technologies, and ambitious projects 
 
 ---
-
-## 📌 Featured Projects  
-- **Customer_Behaviors_Analysis**  
-- **Customer_Behavior_Analysis_app**  
-- **pan-card-tampering**  
-- **data_clean_practice_ipl_dframe**  
-
-
----
-
-## 📊 GitHub Stats  
-
-### 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=doyancha&theme=default)
-
-### 📈 GitHub Profile Stats  
-![Doyancha's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyancha&show_icons=true&hide_border=false)
-
-### 🧩 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyancha&layout=compact&hide_border=false)
-
----
-
 ## 🛠️ Skills & Tools  
 - **Languages:** Python, R, JavaScript, C, C++, C#, PhP
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, dplyr, tidyr, ggplot2
@@ -66,6 +43,27 @@ I’m a Python-focused developer who enjoys exploring data, building meaningful 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+## 📌 Featured Projects  
+- **Customer_Behaviors_Analysis**  
+- **Customer_Behavior_Analysis_app**  
+- **pan-card-tampering**  
+- **data_clean_practice_ipl_dframe**  
+
+
+---
+
+## 📊 GitHub Stats  
+
+### 🔥 Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com/?user=doyancha&theme=default)
+
+### 📈 GitHub Profile Stats  
+![Doyancha's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyancha&show_icons=true&hide_border=false)
+
+### 🧩 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyancha&layout=compact&hide_border=false)
 
 ---
 
