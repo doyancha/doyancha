@@ -41,7 +41,7 @@ I’m a Python-focused developer who enjoys exploring data, building meaningful 
 - **Languages:** Python, R, JavaScript, C, C++, C#, PhP
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, dplyr, tidyr, ggplot2
 - **ML:** scikit-learn, will add more
-- **Environment:** Jupyter Notebook, Streamlit , Colab, Cagle, R Studio, Visual Studio
+- **Environment:** Jupyter Notebook, Streamlit , Colab, Kaggle, R Studio, Visual Studio
 - **Version Control:** Git, GitHub  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
