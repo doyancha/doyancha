@@ -7,7 +7,7 @@ I’m a Python-focused developer who enjoys exploring data, building meaningful 
 ---
 
 ## 🚀 About Me  
-- 🧠 Multi-language developer experienced with Python, JavaScript, C, C++, and Java, enabling me to adapt to diverse software environments
+- 🧠 Multi-language developer experienced with Python, JavaScript, C, C++, Java, enabling me to adapt to diverse software environments
 - 📊 Skilled in **data analysis** (Pandas, NumPy, Matplotlib)  
 - 📊 Expert in data-driven decision making, analytics, and actionable insight generation
 - 🤖 Passionate about creating intelligent solutions through machine learning
