@@ -20,7 +20,7 @@ I’m a Python-focused developer who enjoys exploring data, building meaningful 
 - **Customer_Behavior_Analysis_app**  
 - **pan-card-tampering**  
 - **data_clean_practice_ipl_dframe**  
-(*Check my pinned repositories for more!*)
+
 
 ---
 
