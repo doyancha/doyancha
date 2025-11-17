@@ -38,7 +38,7 @@ I’m a Python-focused developer who enjoys exploring data, building meaningful 
 ---
 
 ## 🛠️ Skills & Tools  
-- **Languages:** Python,R, JavaScript, C, C++, C#, PhP
+- **Languages:** Python, R, JavaScript, C, C++, C#, PhP
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, dplyr, tidyr, ggplot2
 - **ML:** scikit-learn, will add more
 - **Environment:** Jupyter Notebook, Streamlit , Colab, Cagle, R Studio, Visual Studio
