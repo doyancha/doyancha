@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Mir Shahadut Hossain** (doyancha)
+# 👋 Hi, I'm **Mir Shahadut Hossain**
 
 ### 💻 Python Developer • Data Analyst • ML Enthusiast
 
@@ -7,10 +7,11 @@ I’m a Python-focused developer who enjoys exploring data, building meaningful 
 ---
 
 ## 🚀 About Me  
-- 🐍 Python is my main programming language  
+- 🧠 Multi-language developer experienced with Python, JavaScript, C, C++, and Java, enabling me to adapt to diverse software environments
 - 📊 Skilled in **data analysis** (Pandas, NumPy, Matplotlib)  
-- 🤖 Passionate about **machine learning** and real-world ML applications  
-- 📈 Always building new projects and learning advanced AI techniques  
+- 📊 Expert in data-driven decision making, analytics, and actionable insight generation
+- 🤖 Passionate about creating intelligent solutions through machine learning
+- ⚡ Always pushing boundaries with new ideas, technologies, and ambitious projects 
 
 ---
 
@@ -46,6 +47,6 @@ I’m a Python-focused developer who enjoys exploring data, building meaningful 
 ---
 
 ## 📬 Contact  
-(Add your email or LinkedIn if you want people to reach you)
+📧 **Email:** sujon6901@gmail.com 
 
 Thanks for visiting! ✨  
