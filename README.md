@@ -26,7 +26,7 @@
 
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  &nbsp;Sujon &nbsp;|&nbsp; Data Analyst
+  &nbsp;Mir Shahadut Hossain &nbsp;|&nbsp; Data Analyst
 </h1>
 
 <p align="center">
