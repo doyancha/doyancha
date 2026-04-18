@@ -6,7 +6,7 @@
 
 <!-- Animated Typing Headline -->
 <a href="https://github.com/doyancha">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sujon+%F0%9F%91%8B;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shahadut+%F0%9F%91%8B;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Decisions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -59,7 +59,7 @@
 
 > *"Data is the new oil — but only if you know how to refine it."*
 
-I'm **Sujon**, an aspiring Data Analyst with a deep passion for extracting meaningful insights from complex datasets. I combine technical skills in **Python, SQL, and Power BI** with strong business acumen to help organizations make smarter, data-driven decisions.
+I'm **Shahadut**, an aspiring Data Analyst with a deep passion for extracting meaningful insights from complex datasets. I combine technical skills in **Python, SQL, and Power BI** with strong business acumen to help organizations make smarter, data-driven decisions.
 
 - 🎯 **Goal:** Secure an entry-level remote Data Analyst role within 3 months
 - 🔍 **Specialty:** EDA, Data Visualization, Business Dashboards & Predictive Insights
@@ -229,11 +229,11 @@ I'm actively seeking **remote Data Analyst opportunities**. If you're looking fo
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/doyancha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-shahadut-hossain/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/doyancha)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujon@email.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujon6901@gmail.com)
 
 <br/>
 
@@ -241,7 +241,7 @@ I'm actively seeking **remote Data Analyst opportunities**. If you're looking fo
   <img src="https://img.shields.io/badge/🚀%20View%20Full%20Portfolio-00D9FF?style=for-the-badge&logoColor=white" alt="View Portfolio"/>
 </a>
 &nbsp;
-<a href="mailto:sujon@email.com">
+<a href="mailto:sujon601@gmail.com">
   <img src="https://img.shields.io/badge/💼%20Available%20for%20Hire-FF4B4B?style=for-the-badge&logoColor=white" alt="Hire Me"/>
 </a>
 
