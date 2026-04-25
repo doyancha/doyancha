@@ -61,7 +61,7 @@
 
 I'm **Shahadut**, an aspiring Data Analyst with a deep passion for extracting meaningful insights from complex datasets. I combine technical skills in **Python, SQL, and Power BI** with strong business acumen to help organizations make smarter, data-driven decisions.
 
-- 🎯 **Goal:** Secure an entry-level remote Data Analyst role within 3 months
+- 🎯 **Goal:** Delivering data-driven insights and interactive dashboards that empower businesses to make confident decisions
 - 🔍 **Specialty:** EDA, Data Visualization, Business Dashboards & Predictive Insights
 - 📈 **Approach:** I don't just analyze data — I tell the story behind the numbers
 - 🌍 **Location:** Open to remote work globally
