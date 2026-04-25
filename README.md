@@ -6,7 +6,7 @@
 
 <!-- Animated Typing Headline -->
 <a href="https://github.com/doyancha">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Prova+%F0%9F%91%8B;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shahadut+%F0%9F%91%8B;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Decisions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@
 
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  &nbsp;Pushpita Nizam Prova &nbsp;|&nbsp; Data Analyst
+  &nbsp;Mir Shahadut Hossain &nbsp;|&nbsp; Data Analyst
 </h1>
 
 <p align="center">
