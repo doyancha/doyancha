@@ -31,7 +31,7 @@
 
 <p align="center">
   <strong>I transform raw data into clarity, direction, and business value.</strong><br/>
-  Entry-level Data Analyst · Open to Remote Opportunities · Available Immediately
+  Data Analyst | Data-driven insights & dashboards for better decisions | Python • SQL • Power BI
 </p>
 
 <!-- CTA Buttons -->
